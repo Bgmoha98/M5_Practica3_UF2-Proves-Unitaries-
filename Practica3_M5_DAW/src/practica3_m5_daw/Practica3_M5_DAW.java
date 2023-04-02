@@ -15,6 +15,7 @@ public class Practica3_M5_DAW {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         // TODO code application logic here
         // Imprime la cadena invertida
         System.out.print("Primer metodo, invertir cadena: ");
@@ -27,6 +28,7 @@ public class Practica3_M5_DAW {
         // Devuelve el factorial de un numero, pero si el numero es negativo devolvera -1
         System.out.print("\nTercer metodo, factorial: ");
         System.out.println(MyUtils.factorial(10));
+        
     }
 
 }
